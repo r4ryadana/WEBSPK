@@ -1,0 +1,1 @@
+1. Buka website awal menggunakan index.php
